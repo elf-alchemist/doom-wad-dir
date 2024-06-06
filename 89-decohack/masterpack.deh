@@ -1,0 +1,168 @@
+Patch File for DeHackEd v3.0
+
+Doom version = 21
+Patch format = 6
+
+Thing 109 (One-legged body 2)
+Height = 5505024
+
+Frame 47
+Duration = 4
+
+Frame 48
+Duration = 3
+
+Frame 185
+Sprite subnumber = 32773
+
+Frame 419
+Sprite subnumber = 32773
+
+Frame 615
+Sprite subnumber = 0
+
+Frame 647
+Sprite subnumber = 0
+
+Frame 685
+Sprite subnumber = 32773
+
+Frame 687
+Sprite subnumber = 32773
+
+Frame 689
+Sprite subnumber = 32773
+
+[STRINGS]
+HUSTR_E1M1 = E1M1
+HUSTR_E1M2 = E1M2
+HUSTR_E1M3 = E1M3
+HUSTR_E1M4 = E1M4
+HUSTR_E1M5 = E1M5
+HUSTR_E1M6 = E1M6
+HUSTR_E1M7 = E1M7
+HUSTR_E1M8 = E1M8
+HUSTR_E1M9 = E1M9
+HUSTR_E2M1 = E2M1
+HUSTR_E2M2 = E2M2
+HUSTR_E2M3 = E2M3
+HUSTR_E2M4 = E2M4
+HUSTR_E2M5 = E2M5
+HUSTR_E2M6 = E2M6
+HUSTR_E2M7 = E2M7
+HUSTR_E2M8 = E2M8
+HUSTR_E2M9 = E2M9
+HUSTR_E3M1 = E3M1
+HUSTR_E3M2 = E3M2
+HUSTR_E3M3 = E3M3
+HUSTR_E3M4 = E3M4
+HUSTR_E3M5 = E3M5
+HUSTR_E3M6 = E3M6
+HUSTR_E3M7 = E3M7
+HUSTR_E3M8 = E3M8
+HUSTR_E3M9 = E3M9
+HUSTR_E4M1 = E4M1
+HUSTR_E4M2 = E4M2
+HUSTR_E4M3 = E4M3
+HUSTR_E4M4 = E4M4
+HUSTR_E4M5 = E4M5
+HUSTR_E4M6 = E4M6
+HUSTR_E4M7 = E4M7
+HUSTR_E4M8 = E4M8
+HUSTR_E4M9 = E4M9
+HUSTR_1 = Level 1
+HUSTR_2 = Level 2
+HUSTR_3 = Level 3
+HUSTR_4 = Level 4
+HUSTR_5 = Level 5
+HUSTR_6 = Level 6
+HUSTR_7 = Level 7
+HUSTR_8 = Level 8
+HUSTR_9 = Level 9
+HUSTR_10 = Level 10
+HUSTR_11 = Level 11
+HUSTR_12 = Level 12
+HUSTR_13 = Level 13
+HUSTR_14 = Level 14
+HUSTR_15 = Level 15
+HUSTR_16 = Level 16
+HUSTR_17 = Level 17
+HUSTR_18 = Level 18
+HUSTR_19 = Level 19
+HUSTR_20 = Level 20
+HUSTR_21 = Level 21
+HUSTR_22 = Level 22
+HUSTR_23 = Level 23
+HUSTR_24 = Level 24
+HUSTR_25 = Level 25
+HUSTR_26 = Level 26
+HUSTR_27 = Level 27
+HUSTR_28 = Level 28
+HUSTR_29 = Level 29
+HUSTR_30 = Level 30
+HUSTR_31 = Level 31
+HUSTR_32 = Level 32
+PHUSTR_1 = Level 1
+PHUSTR_2 = Level 2
+PHUSTR_3 = Level 3
+PHUSTR_4 = Level 4
+PHUSTR_5 = Level 5
+PHUSTR_6 = Level 6
+PHUSTR_7 = Level 7
+PHUSTR_8 = Level 8
+PHUSTR_9 = Level 9
+PHUSTR_10 = Level 10
+PHUSTR_11 = Level 11
+PHUSTR_12 = Level 12
+PHUSTR_13 = Level 13
+PHUSTR_14 = Level 14
+PHUSTR_15 = Level 15
+PHUSTR_16 = Level 16
+PHUSTR_17 = Level 17
+PHUSTR_18 = Level 18
+PHUSTR_19 = Level 19
+PHUSTR_20 = Level 20
+PHUSTR_21 = Level 21
+PHUSTR_22 = Level 22
+PHUSTR_23 = Level 23
+PHUSTR_24 = Level 24
+PHUSTR_25 = Level 25
+PHUSTR_26 = Level 26
+PHUSTR_27 = Level 27
+PHUSTR_28 = Level 28
+PHUSTR_29 = Level 29
+PHUSTR_30 = Level 30
+PHUSTR_31 = Level 31
+PHUSTR_32 = Level 32
+THUSTR_1 = Level 1
+THUSTR_2 = Level 2
+THUSTR_3 = Level 3
+THUSTR_4 = Level 4
+THUSTR_5 = Level 5
+THUSTR_6 = Level 6
+THUSTR_7 = Level 7
+THUSTR_8 = Level 8
+THUSTR_9 = Level 9
+THUSTR_10 = Level 10
+THUSTR_11 = Level 11
+THUSTR_12 = Level 12
+THUSTR_13 = Level 13
+THUSTR_14 = Level 14
+THUSTR_15 = Level 15
+THUSTR_16 = Level 16
+THUSTR_17 = Level 17
+THUSTR_18 = Level 18
+THUSTR_19 = Level 19
+THUSTR_20 = Level 20
+THUSTR_21 = Level 21
+THUSTR_22 = Level 22
+THUSTR_23 = Level 23
+THUSTR_24 = Level 24
+THUSTR_25 = Level 25
+THUSTR_26 = Level 26
+THUSTR_27 = Level 27
+THUSTR_28 = Level 28
+THUSTR_29 = Level 29
+THUSTR_30 = Level 30
+THUSTR_31 = Level 31
+THUSTR_32 = Level 32
